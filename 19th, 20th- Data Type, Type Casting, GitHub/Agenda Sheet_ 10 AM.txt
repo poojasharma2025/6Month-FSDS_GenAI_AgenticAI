@@ -1,0 +1,540 @@
+^^^ FSDS with Generative AI & Agentic AI : 12th June 2025
+==========
+Meeting Link: https://zoom.us/j/87944479364
+Follow this link to join my WhatsApp community:
+		https://chat.whatsapp.com/ER0J0PNiWxoKwKTAdemMCQ
+==========
+1- name of the course ( fsds, genai, agentic ai, llm, prompt engineer)
+2- main module of this course 
+3- my introduction 
+4- who can learn this course 
+5- what job type any can apply 
+
+32k inr  (with recording)
+27k inr (withrecording) 
+
+online team please patience i will speak with you 
+	i will speak after 30-40min ( calm down) i will talk to you 
+	
+chatgpt -- who build chatgpt 
+	open ai ( microsoft purchase this) 
+
+chatgpt -- gen ai application where content will be generate 
+		generate content, code, all this thinkg 
+		
+custome gpt project
+
+agentic ai -- develope application with the help of agents 
+		agentic ai frameworkd -- smolagents 
+
+job or increae salary 
+	job -- resume 
+	resume -- projects 
+	project -- technical skills + handon practicle 
+	tehnical skill -- you will gain in this class session 
+		knowlege gain hear 
+	
+====13th
+Today we are at 2nd day of our class -- brand new batch 
+
+gen ai -- chatgpt -- create content  & agenitic ai - build app automiation 
+
+ide (integrated development environment)
+	user can write the code , understan , error - bug | fix the erro - debug 
+	
+1st wee & 3rd wee of sat -- we wil session ( mock test ) 
+2nd week & 4th week of sat - no classes 
+
+duration  5-6mont
+time - mon - sat 10 - 11:30 am 
+fee structre -- recordin 33k inr | 27k inr
+
+====== 16th
+
+the learners 
+frehser
+experience
+leader 
+
+if you have any question after 1hr of my explanation i will unmute you we can speak clearn 
+student who so ever raise your hand i will speak with you after the class 
+
+brand new -- 
+
+python programming 
+
+
+demo + class session -- today onwards i will start the classes 
+30min demo + 30 min python + 
+
+0 level i will start
+
+the learners who ever exper python, db, -- u might feel slow cuz of you know 
+I want you to be little -- 
+
+stats-- everythone will be same 
+
+unlearn and relearn 
+10yr in java fresher to ds 
+
+fresher - work with me 
+
+less code -- powerfull project ( ds, 
+	data analytics -- 
+	
+	if you leanr da jobs you cannot apply ds job 
+	
+	ds -- happy da jobs 
+
+----
+python programmin langaguge -->
+----
+0 in python -- 
+
+i will share you the software installation file -- please install it 
+
+work with number 
+
+number -- numreical data 
+text -- categorical data 
+
+excel sheet - number & categoriacl 
+
+
+
+learner who doesnot install software please install today -->
+
+if you are not installed then pelase work todays task in google colab
+
+software -- google colab ide ( google) 
+
+	create by google 
+	
+1- go to google 
+2- typle google colab
+3- new notebook
+4- code 
+
+text -- string 
+
+_ mean -- it store previous output value 
+
+non technicall we called as text 
+technicall we called as string 
+
+today onwards you have to call string 
+
+string define in ' ' | "" | ''' ''' 
+
+we we have multiline commentsthen only ''' ''' works 
+
+python index begins with 0 
+
+school - project 
+college - project 
+phd -- research project
+oragnization - project 
+
+company - projects they are doing 
+	live project == capstone project  
+	
+projec which alwasy live no death in the project 
+situation based learning 
+
+=== 17th
+
+who joined for the 1st 2nd time -- last 10 min i will take the back up classess
+so far today is day-4 of new batch fsds, gen ai, agentic, ai , ml with python programing
+
+learner who have any query i will talk to you at the end of the session also the learner who
+raise your hand i will talk to them at the end of the session 
+
+python i will start from today onwards 
+
+complete python with ml, dl, ai , gen ai ,agentic ai 
+
+
+learne who install anaconda please open your laptop 
+ open the software jupyter notebook 
+ 
+ learner who so ever didnt instll software today you need to install ( google colab )
+
+how many of them you dont know any programming language 
+how many fo them dont knwo python 
+
+i got to know that 85% learner not expert in python 
+---
+python variable -->
+----
+syntax -->
+	v = 5 
+	
+	v -- variable  & 5 - value 
+	 
+
+Error type 
+
+- compile time error 
+- run time error 
+- logical error 
+---
+rules to define python variable -->
+---
+1- variable doesnot start with number but it ends with number 
+2- variable case sensitive ( if you mention variable in lowercase & call the value in lower case only)
+3- special character are not allowed in variable 
+4- only _ is allowed 
+5- keyword cannot define as variable 
+
+
+every programing lanage (reserved word = keyword )
+	c, java, 
+
+['False',
+ 'None',
+ 'True',
+ 'and',
+ 'as',
+ 'assert',
+ 'async',
+ 'await',
+ 'break',
+ 'class',
+ 'continue',
+ 'def',
+ 'del',
+ 'elif',
+ 'else',
+ 'except',
+ 'finally',
+ 'for',
+ 'from',
+ 'global',
+ 'if',
+ 'import',
+ 'in',
+ 'is',
+ 'lambda',
+ 'nonlocal',
+ 'not',
+ 'or',
+ 'pass',
+ 'raise',
+ 'return',
+ 'try',
+ 'while',
+ 'with',
+ 'yield']
+ 
+ VARIABLE = IDENTIFIER = OBJECT 
+  python variable we are completed 
+ 
+ 
+from where datatype born ??? 	
+
+syntax of variable 
+
+ variable = value 
+ 
+v = 5
+v1 = 5.5
+v2 = 'nit'
+v3 = True 
+v4 = 1+2j
+
+value == dataypes 
+
+datatypes 
+
+	integer 
+	float 
+	bool
+	string
+	complex 
+	
+===== 18th 
+
+
+learner who ever raise your hand i will answer your query at the end of the session 
+please dont anger, just calm down, alright team,
+exper, fresher juster calm down i will answer your query and pleaes use the chat then i 
+offline learer due to some unexpected emergency i am take the sesion only for today online
+tomorrow onwards offline & Online both will contrinue . consider my apology to offline team
+i hope i am clear 
+
+yesterday we started python coding 
+learner joined for the first time qr code & backup classes 
+
+completed, exper, leader, carrer --
+variable == object  
+----
+Agenda for today session -->
+---
+github createsion 
+	going further every code need to upload in git accoutn
+	
+vs code -- extension require to work ml, dl, ds, ai everythinkg 
+----
+0- anaconda -- you know 
+1- google colab -- we already knew it 
+
+2- Github Createion 
+3- vscode ( i will teach extension ) 
+4- pycharm 
+
+1st -- google.com
+2nd -- github.com
+3rd -- Register using your  gmail.com
+4th -- Github home screen will appear
+5th-- click on repository 
+6th -- new / fsds_genai_agenticai
+7th -- upload file | upload directory
+8th -- everyday what ever work you can done you can commit post it
+9th -- track it 
+10th - https://github.com/kodigitaccount/6month-fsds-genai-agentiai
+
+https://github.com/kodigitaccount
+
+
+1- tomorrow everyone has to complete github.com
+2- fsds batch maintain the plan
+3- vs code installation 
+
+google
+type vs code 
+as per your os -- please install 
+extension 
+	- arepl for python
+	- autodocstring
+	- github copilot 
+	- code runner 
+	- intellicode
+	- jupyter 
+	- markdown pdf
+	- office viewer 
+	- pdf viewer
+	- pylance
+	- python
+	- python extension pack 
+	
+i really appreciate one who installed 
+
+
+the studetn who can not able understan even thouf i explain to school kid
+better to dont join the course 
+
+the guys who do not understan so no problem my team can help you 
+
+jupyter you can opne in vs code as well
+
+i want you to go home and try these step if you have any issue then i will clear your doubt
+
+i want you to to -- can you please install today ( join back tommrow) 
+
+===== 19th 
+
+demo session we are completed 
+software installation we are completed
+github creation completed 
+== python 
+- python variable we are completed 
+- python dataypes 
+
+syntax of the variable 
+		var = value 
+		
+value == data types 
+
+int 
+float
+bool
+string 
+complex
+
+
+day 10 min please practise typing if you slow 
+day 10 min please workout on comm skill, vocubulary 
+now a day code will give by chatgpt 
+your mouth speak -- sper tedx 
+
+python function always ends with 
+	():
+
+offline team many in the classes i will speak you will open you will 
+stats, 
+dl 	
+
+
+german_cars(audi, bmw, volk,skoda) 
+
+4argument or 4 parameter 
+
+asia_cars(tata, mahin) 
+
+llm model (chatgpt) -- 750 milion parameter == llm models 
+
+ml algoth (dt) 10 parameter 
+
+chatgpt
+deepseek
+
+function 
+funcation argument 
+
+
+1house( sand, bricks, labour_ 
+2house ()
+
+llm modl if the parameter are increase then more powerfull  
+
+print() all datatypes argument will work 
+
+Non technica how to code 
+  1- i will share some pdf documents 
+  2- see the docuem line by line dont copy just type and complete this (2hr-4hr) 
+  3- same code dont see and try to type (10hr) 
+  4- after 1week just view the code ( when you type without see  30min 
+  
+ - print() 
+ - print() result with string 
+ - print formatting 
+ 
+ complex datatype you wont find in any oter language 
+ 
+ c = a + bj
+ 
+ c == variable 
+ a == real part
+ b == imaginarey 
+ j == squrea root of -1 
+ 
+ python is dynamic programing language not static 
+ python automatic underst where which data type, rear has to merge with parte
+ 
+ ==== 20th 
+ 
+ def hello_team():
+     print('good monring team') 
+	 
+	 
+class nit():
+    def hello_team():
+	    print('good monring team') 
+		
+
+ string must has to define with  '' | " " | ''' '''
+ 
+ ''' ''' - multilin stament
+ 
+ === the moment when i give easy task you love it (
+ 
+indexing -- begins with 0 
+	forward index ( left - right)
+	backward index (right - left) 
+	
+	
+s[1:] - can you from 1st index till last 
+s[:5] - can you from starting indext till n-1 | 4th 
+s[2:7] - can you 2nd index to 7th ( n-1) 
+s[2:10:2] - starting index 2, end index 10th and step - 2
+
+
+
+	
+	
+6 months 
+patience 
+ 1.6hr for -- 5mint 
+ 
+ s[0:5] 
+ 
+ 0 - starting index 
+ 5 - end index 
+ 
+ while slicing but last index should must apply n-1 formula only right index not left index 
+ 
+ 
+ 
+ lets introduce slicing concept :
+ 
+ 
+ 
+ 
+
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=====
+👉 Backup Video:
+Day-1 https://t.ly/9JuSD
+
+📂 Drive Link: https://t.ly/6BpJ6
+
+^^^^^^^^^^ADMIN DETAILS ==>
+Online admin number 
+		- Mr. Arif -- +91 9154861173 
+Offline Admin 
+		- Mr. Srikant 
+
+^^^^^^^^^^ONLINE MENTOR ==>
+Data science mentor link-1: 
+	https://zoom.us/j/82068816627?pwd=3BYepgjDCqbkroxauQGo2T4gr9f7Fn.1
+Data Science link-2
+	https://zoom.us/j/86433658207?pwd=7abh6fYZ1McPZsguCNgEaONRoKKY7Y.1
+Password - 112233
+
+OFFLINE METOR (3rd Floor) 
+^^^^^^^^^
+Software Installation: https://youtu.be/PhIAQ8rE2xc?si=O-K1FHF_1a1FeT4o
+^^^^^^^^^
+========
+Drive Link -- https://drive.google.com/drive/folders/1Kn0w3PJFGOEfceXadUFxXrJLfac1STzl
