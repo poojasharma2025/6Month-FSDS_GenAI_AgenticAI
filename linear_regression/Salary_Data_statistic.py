@@ -2,6 +2,10 @@ import numpy as np
 import pandas as pd
 import warnings
 warnings.filterwarnings('ignore')
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import r2_score, mean_squared_error
+from sklearn.feature_selection import VarianceThreshold
 import pickle
 
 path = (r'C:\Users\WELCOME\Desktop\Python\linear_regression\Salary_Data.csv')
@@ -20,7 +24,7 @@ df.dtypes
 X = df.drop('YearsExperience', axis=1)
 y = df['Salary']
 
-from sklearn.model_selection import train_test_split
+#from sklearn.model_selection import train_test_split
  
 X_train, X_test, y_train, y_test = train_test_split(X, y,random_state=1234, test_size = 0.30)
 
@@ -32,7 +36,7 @@ df.shape
 
 X_train.ndim
 
-from sklearn.linear_model import LinearRegression
+#from sklearn.linear_model import LinearRegression
 LR = LinearRegression()
 LR.fit(X_train, y_train)
 
@@ -62,7 +66,7 @@ test_data
 print(y_test.values[:5])
 print(y_predictions[:5])
 
-from sklearn.metrics import r2_score, mean_squared_error
+#from sklearn.metrics import r2_score, mean_squared_error
 
 R2 = r2_score(y_test, y_predictions)
 MSE = mean_squared_error(y_test, y_predictions)
@@ -87,7 +91,7 @@ LR.intercept_
 X_train.columns
 
 
-from sklearn.feature_selection import VarianceThreshold
+#from sklearn.feature_selection import VarianceThreshold
 vt = VarianceThreshold(threshold=0)
 
 vt.fit(df)
@@ -103,10 +107,6 @@ vt.threshold
 cols = vt.get_feature_names_out()
 
 df[cols]
-
-
-
-
 
 path = r'C:\Users\WELCOME\Desktop\Python\linear_regression\Salary_Data.csv'
 df = pd.read_csv(path)

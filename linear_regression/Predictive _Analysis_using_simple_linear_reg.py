@@ -70,8 +70,9 @@ print("Model has been pickled and saved as linear _regression_model.pkl")
 # import os
 print(os.getcwd())
 
+#PICKEL-> COMPRESS FILE
 # PICKEL is used to zip files (). so the code will convert into object
 # .dump function is used to convert all 50 lines of code into one object
-# to save ML model - .pickle
+# to save ML model - .pickle format
 # to  save image model - .H5
 
