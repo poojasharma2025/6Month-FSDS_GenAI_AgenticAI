@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Model Results</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style> .table-container { max-height: 60vh; overflow: auto; } </style>
+  </head>
+  <body class="bg-light">
+    <div class="container py-4">
+      <div class="card shadow-sm p-4 mb-4">
+        <h2 class="mb-2">Comparison of ML Algorithms</h2>
+        <p class="text-muted mb-3">Stemming: <strong>{{ 'Yes' if use_stem else 'No' }}</strong> · Test size: <strong>{{ test_size }}</strong></p>
+
+        <div class="table-container mb-3">
+          {{ comparison_table | safe }}
+        </div>
+
+        {% if single_table %}
+        <hr/>
+        <h4>Selected Algorithm Details ({{ selected_algo }})</h4>
+        {{ single_table | safe }}
+        {% endif %}
+
+        <a href="{{ url_for('index') }}" class="btn btn-secondary mt-3">Back</a>
+      </div>
+    </div>
+  </body>
+</html>
